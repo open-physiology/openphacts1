@@ -1,0 +1,9 @@
+{
+  "app_id": "c290a34b",
+  "app_key": "6d31826ce28a9d181a5eb4eedadc95fd",
+  "phacts_host": "https://beta.openphacts.org",
+  "phacts_base": "/1.5/",
+  "sparql": "http://www.open-physiology.org:3030/demo2/query?output=json&query=",
+  "port": 5058,
+  "debug": false
+}
