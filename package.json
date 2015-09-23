@@ -1,0 +1,23 @@
+{
+  "name": "openphacts",
+  "version": "0.0.1",
+  "description": "Tool for doing two very specific tasks involving OpenPHACTS and RICORDO",
+  "main": "op.js",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-physiology/openphacts1.git"
+  },
+  "author": "UCL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-physiology/openphacts1/issues"
+  },
+  "homepage": "https://github.com/open-physiology/openphacts1#readme"
+}
